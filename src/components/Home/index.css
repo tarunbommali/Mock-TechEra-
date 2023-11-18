@@ -1,0 +1,23 @@
+.website-logo {
+  margin-left: 20px;
+  height: 50px;
+  width: 110px;
+}
+
+.courses-list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.courses-list {
+  display: flex;
+  flex-wrap: wrap;
+}

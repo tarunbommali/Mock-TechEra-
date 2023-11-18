@@ -1,0 +1,28 @@
+.course-detail-view {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.course-detail-view-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 40%;
+  padding: 30px;
+}
+
+.course-detail-image {
+  height: 500px;
+}
+.course-details {
+  margin-left: 15px;
+}
+
+.failure-view {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
